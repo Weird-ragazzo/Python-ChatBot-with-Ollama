@@ -1,0 +1,5 @@
+ollama run llama3.2:1b => terminal cmd
+python ChatBot
+
+tell me about history of india
+3 
