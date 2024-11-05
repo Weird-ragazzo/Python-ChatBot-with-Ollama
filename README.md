@@ -34,7 +34,7 @@ To run the ChatBot locally, follow these steps:
    git clone https://github.com/Weird-ragazzo/ChatBot.git
 
 2. **Install llama3.2:1b model**:
-3. Install the Llama3.2:1b model from Ollama by running the following command in your command line:
+   Install the Llama3.2:1b model from Ollama by running the following command in your command line:
   ```bash
   ollama run llama3.2:1b
 ```
